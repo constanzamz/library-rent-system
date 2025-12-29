@@ -1,0 +1,11 @@
+C:\Users\Dell\Downloads\Library\Library\src\Library.Dto\bin\Debug\net8.0\Library.Dto.deps.json
+C:\Users\Dell\Downloads\Library\Library\src\Library.Dto\bin\Debug\net8.0\Library.Dto.dll
+C:\Users\Dell\Downloads\Library\Library\src\Library.Dto\bin\Debug\net8.0\Library.Dto.pdb
+C:\Users\Dell\Downloads\Library\Library\src\Library.Dto\obj\Debug\net8.0\Library.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\Library\Library\src\Library.Dto\obj\Debug\net8.0\Library.Dto.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\Library\Library\src\Library.Dto\obj\Debug\net8.0\Library.Dto.AssemblyInfo.cs
+C:\Users\Dell\Downloads\Library\Library\src\Library.Dto\obj\Debug\net8.0\Library.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Library\Library\src\Library.Dto\obj\Debug\net8.0\Library.Dto.dll
+C:\Users\Dell\Downloads\Library\Library\src\Library.Dto\obj\Debug\net8.0\refint\Library.Dto.dll
+C:\Users\Dell\Downloads\Library\Library\src\Library.Dto\obj\Debug\net8.0\Library.Dto.pdb
+C:\Users\Dell\Downloads\Library\Library\src\Library.Dto\obj\Debug\net8.0\ref\Library.Dto.dll

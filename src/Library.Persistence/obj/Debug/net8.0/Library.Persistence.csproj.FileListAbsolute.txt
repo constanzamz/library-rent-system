@@ -1,0 +1,17 @@
+C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\bin\Debug\net8.0\Library.Persistence.deps.json
+C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\bin\Debug\net8.0\Library.Persistence.runtimeconfig.json
+C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\bin\Debug\net8.0\Library.Persistence.dll
+C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\bin\Debug\net8.0\Library.Persistence.pdb
+C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\bin\Debug\net8.0\Library.Entities.dll
+C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\bin\Debug\net8.0\Library.Entities.pdb
+C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\obj\Debug\net8.0\Library.Persistence.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\obj\Debug\net8.0\Library.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\obj\Debug\net8.0\Library.Persistence.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\obj\Debug\net8.0\Library.Persistence.AssemblyInfo.cs
+C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\obj\Debug\net8.0\Library.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\obj\Debug\net8.0\Library..F0AA238F.Up2Date
+C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\obj\Debug\net8.0\Library.Persistence.dll
+C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\obj\Debug\net8.0\refint\Library.Persistence.dll
+C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\obj\Debug\net8.0\Library.Persistence.pdb
+C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\obj\Debug\net8.0\Library.Persistence.genruntimeconfig.cache
+C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\obj\Debug\net8.0\ref\Library.Persistence.dll

@@ -1,0 +1,17 @@
+C:\Users\Dell\Downloads\Library\Library\src\Library.Respositories\bin\Debug\net8.0\Library.Respositories.deps.json
+C:\Users\Dell\Downloads\Library\Library\src\Library.Respositories\bin\Debug\net8.0\Library.Respositories.dll
+C:\Users\Dell\Downloads\Library\Library\src\Library.Respositories\bin\Debug\net8.0\Library.Respositories.pdb
+C:\Users\Dell\Downloads\Library\Library\src\Library.Respositories\bin\Debug\net8.0\Library.Entities.dll
+C:\Users\Dell\Downloads\Library\Library\src\Library.Respositories\bin\Debug\net8.0\Library.Persistence.dll
+C:\Users\Dell\Downloads\Library\Library\src\Library.Respositories\bin\Debug\net8.0\Library.Entities.pdb
+C:\Users\Dell\Downloads\Library\Library\src\Library.Respositories\bin\Debug\net8.0\Library.Persistence.pdb
+C:\Users\Dell\Downloads\Library\Library\src\Library.Respositories\obj\Debug\net8.0\Library.Respositories.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\Library\Library\src\Library.Respositories\obj\Debug\net8.0\Library.Respositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\Library\Library\src\Library.Respositories\obj\Debug\net8.0\Library.Respositories.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\Library\Library\src\Library.Respositories\obj\Debug\net8.0\Library.Respositories.AssemblyInfo.cs
+C:\Users\Dell\Downloads\Library\Library\src\Library.Respositories\obj\Debug\net8.0\Library.Respositories.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Library\Library\src\Library.Respositories\obj\Debug\net8.0\Library..3E7E406E.Up2Date
+C:\Users\Dell\Downloads\Library\Library\src\Library.Respositories\obj\Debug\net8.0\Library.Respositories.dll
+C:\Users\Dell\Downloads\Library\Library\src\Library.Respositories\obj\Debug\net8.0\refint\Library.Respositories.dll
+C:\Users\Dell\Downloads\Library\Library\src\Library.Respositories\obj\Debug\net8.0\Library.Respositories.pdb
+C:\Users\Dell\Downloads\Library\Library\src\Library.Respositories\obj\Debug\net8.0\ref\Library.Respositories.dll
