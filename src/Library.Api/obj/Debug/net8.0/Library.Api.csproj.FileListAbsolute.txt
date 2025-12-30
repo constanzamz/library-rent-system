@@ -150,3 +150,4 @@ C:\Users\Dell\Downloads\Library\Library\src\Library.Api\obj\Debug\net8.0\Library
 C:\Users\Dell\Downloads\Library\Library\src\Library.Api\obj\Debug\net8.0\ref\Library.Api.dll
 C:\Users\Dell\Downloads\Library\Library\src\Library.Api\bin\Debug\net8.0\Library.Repositories.dll
 C:\Users\Dell\Downloads\Library\Library\src\Library.Api\bin\Debug\net8.0\Library.Repositories.pdb
+C:\Users\Dell\Downloads\Library\Library\src\Library.Api\obj\Debug\net8.0\Library.Api.sourcelink.json
