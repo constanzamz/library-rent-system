@@ -28,4 +28,20 @@ public class OrdersController : ControllerBase
 		var response = await service.GetBooksByClientDniAsync(dni);
 		return response.Success ? Ok(response) : BadRequest(response);
 	}
+
+	[HttpPut("{id:int}/return")]
+	public async Task<IActionResult> Return(int id)
+	{
+		var response = await service.ReturnAsync(id);
+		return response.Success ? Ok(response) : BadRequest(response);
+	}
+
+	
+
+	[HttpGet]
+	public async Task<IActionResult> Get()
+	{
+		var response = await service.GetAllAsync();
+		return response.Success ? Ok(response) : BadRequest(response);
+	}
 }

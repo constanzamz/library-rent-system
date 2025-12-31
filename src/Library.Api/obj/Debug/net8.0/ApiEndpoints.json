@@ -179,6 +179,27 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Library.Api.Controllers.ClientsController",
+    "Method": "Search",
+    "RelativePath": "api/Clients/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "term",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "take",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Library.Api.Controllers.OrdersController",
     "Method": "Post",
     "RelativePath": "api/Orders",
@@ -189,6 +210,32 @@
       {
         "Name": "dto",
         "Type": "Library.Dto.Request.OrderRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Library.Api.Controllers.OrdersController",
+    "Method": "Get",
+    "RelativePath": "api/Orders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Library.Api.Controllers.OrdersController",
+    "Method": "Return",
+    "RelativePath": "api/Orders/{id}/return",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],

@@ -9,3 +9,4 @@ C:\Users\Dell\Downloads\Library\Library\src\Library.Entities\obj\Debug\net8.0\Li
 C:\Users\Dell\Downloads\Library\Library\src\Library.Entities\obj\Debug\net8.0\refint\Library.Entities.dll
 C:\Users\Dell\Downloads\Library\Library\src\Library.Entities\obj\Debug\net8.0\Library.Entities.pdb
 C:\Users\Dell\Downloads\Library\Library\src\Library.Entities\obj\Debug\net8.0\ref\Library.Entities.dll
+C:\Users\Dell\Downloads\Library\Library\src\Library.Entities\obj\Debug\net8.0\Library.Entities.sourcelink.json

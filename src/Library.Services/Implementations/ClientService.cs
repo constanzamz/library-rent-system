@@ -129,4 +129,24 @@ public class ClientService : IClientService
 
 		return response;
 	}
+
+	public async Task<BaseResponseGeneric<ICollection<ClientResponseDto>>> SearchAsync(string term, int take = 20)
+	{
+		var response = new BaseResponseGeneric<ICollection<ClientResponseDto>>();
+
+		try
+		{
+			var clients = await repository.SearchByNameAsync(term, take);
+			response.Data = mapper.Map<ICollection<ClientResponseDto>>(clients);
+			response.Success = true;
+		}
+		catch (Exception ex)
+		{
+			logger.LogError(ex, "Error searching clients");
+			response.ErrorMessage = "Error al buscar clientes";
+		}
+
+		return response;
+	}
+
 }

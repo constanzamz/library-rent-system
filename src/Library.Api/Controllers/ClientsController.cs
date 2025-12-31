@@ -49,4 +49,12 @@ public class ClientsController : ControllerBase
 		var response = await service.DeleteAsync(id);
 		return response.Success ? Ok(response) : BadRequest(response);
 	}
+
+	[HttpGet("search")]
+	public async Task<IActionResult> Search([FromQuery] string term, [FromQuery] int take = 20)
+	{
+		var response = await service.SearchAsync(term, take);
+		return response.Success ? Ok(response) : BadRequest(response);
+	}
+
 }

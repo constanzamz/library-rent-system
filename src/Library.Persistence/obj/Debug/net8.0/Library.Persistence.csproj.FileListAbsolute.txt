@@ -15,3 +15,4 @@ C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\obj\Debug\net8.0
 C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\obj\Debug\net8.0\Library.Persistence.pdb
 C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\obj\Debug\net8.0\Library.Persistence.genruntimeconfig.cache
 C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\obj\Debug\net8.0\ref\Library.Persistence.dll
+C:\Users\Dell\Downloads\Library\Library\src\Library.Persistence\obj\Debug\net8.0\Library.Persistence.sourcelink.json

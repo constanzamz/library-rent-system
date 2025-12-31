@@ -40,6 +40,11 @@ namespace Library.Persistence.Migrations
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
+                    b.Property<bool>("IsAvailable")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bit")
+                        .HasDefaultValue(true);
+
                     b.Property<string>("Nombre")
                         .IsRequired()
                         .HasMaxLength(150)
@@ -110,6 +115,11 @@ namespace Library.Persistence.Migrations
 
                     b.Property<DateTime>("FechaPedido")
                         .HasColumnType("datetime2");
+
+                    b.Property<bool>("IsReturned")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bit")
+                        .HasDefaultValue(false);
 
                     b.Property<bool>("Status")
                         .ValueGeneratedOnAdd()

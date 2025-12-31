@@ -19,3 +19,4 @@ C:\Users\Dell\Downloads\Library\Library\src\Library.Services\obj\Debug\net8.0\Li
 C:\Users\Dell\Downloads\Library\Library\src\Library.Services\obj\Debug\net8.0\ref\Library.Services.dll
 C:\Users\Dell\Downloads\Library\Library\src\Library.Services\bin\Debug\net8.0\Library.Repositories.dll
 C:\Users\Dell\Downloads\Library\Library\src\Library.Services\bin\Debug\net8.0\Library.Repositories.pdb
+C:\Users\Dell\Downloads\Library\Library\src\Library.Services\obj\Debug\net8.0\Library.Services.sourcelink.json

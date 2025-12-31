@@ -18,9 +18,18 @@ public class OrderConfiguration : IEntityTypeConfiguration<Order>
 		builder.Property(o => o.Status)
 			.HasDefaultValue(true);
 
+		builder.Property(o => o.IsReturned)
+			.HasDefaultValue(false)
+		.IsRequired();
+
 		builder.HasOne(o => o.Client)
 			.WithMany()
 			.HasForeignKey(o => o.ClientId)
 			.OnDelete(DeleteBehavior.Restrict);
+
+		
+	
+
 	}
+
 }

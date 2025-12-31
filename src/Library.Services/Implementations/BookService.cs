@@ -107,18 +107,24 @@ public class BookService : IBookService
 
 		try
 		{
-			var book = mapper.Map<Book>(dto);
-			book.Id = id;
+			var existing = await repository.GetByIdAsync(id);
+			if (existing is null)
+			{
+				response.ErrorMessage = "Libro no encontrado";
+				return response;
+			}
 
-			book.ISBN = NormalizeIsbn(book.ISBN);
+			existing.Nombre = dto.Nombre;
+			existing.Autor = dto.Autor;
+			existing.ISBN = NormalizeIsbn(dto.ISBN);
 
-			if (book.ISBN.Length != 13)
+			if (existing.ISBN.Length != 13)
 			{
 				response.ErrorMessage = "ISBN inválido. Debe contener exactamente 13 dígitos.";
 				return response;
 			}
 
-			await repository.UpdateAsync(book);
+			await repository.UpdateAsync(existing);
 			response.Success = true;
 		}
 		catch (Exception ex)

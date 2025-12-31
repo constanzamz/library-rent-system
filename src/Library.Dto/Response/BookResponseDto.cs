@@ -4,5 +4,6 @@ public record BookResponseDto(
 	int Id,
 	string Nombre,
 	string Autor,
-	string ISBN
+	string ISBN,
+	bool IsAvailable
 );

@@ -29,5 +29,9 @@ public class BookConfiguration : IEntityTypeConfiguration<Book>
 
 		builder.Property(b => b.Status)
 			.HasDefaultValue(true);
+
+		builder.Property(b => b.IsAvailable)
+			.HasDefaultValue(true);
+
 	}
 }

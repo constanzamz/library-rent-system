@@ -8,4 +8,8 @@ public interface IOrderService
 {
 	Task<BaseResponseGeneric<OrderResponseDto>> CreateAsync(OrderRequestDto dto);
 	Task<BaseResponseGeneric<ICollection<BookResponseDto>>> GetBooksByClientDniAsync(string dni);
+	Task<BaseResponse> ReturnAsync(int id);
+	Task<BaseResponseGeneric<ICollection<OrderResponseDto>>> GetAllAsync();
+	
+
 }

@@ -15,3 +15,4 @@ C:\Users\Dell\Downloads\Library\Library\src\Library.Repositories\obj\Debug\net8.
 C:\Users\Dell\Downloads\Library\Library\src\Library.Repositories\obj\Debug\net8.0\refint\Library.Repositories.dll
 C:\Users\Dell\Downloads\Library\Library\src\Library.Repositories\obj\Debug\net8.0\Library.Repositories.pdb
 C:\Users\Dell\Downloads\Library\Library\src\Library.Repositories\obj\Debug\net8.0\ref\Library.Repositories.dll
+C:\Users\Dell\Downloads\Library\Library\src\Library.Repositories\obj\Debug\net8.0\Library.Repositories.sourcelink.json

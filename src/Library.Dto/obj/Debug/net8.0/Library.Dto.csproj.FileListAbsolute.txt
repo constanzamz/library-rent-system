@@ -9,3 +9,4 @@ C:\Users\Dell\Downloads\Library\Library\src\Library.Dto\obj\Debug\net8.0\Library
 C:\Users\Dell\Downloads\Library\Library\src\Library.Dto\obj\Debug\net8.0\refint\Library.Dto.dll
 C:\Users\Dell\Downloads\Library\Library\src\Library.Dto\obj\Debug\net8.0\Library.Dto.pdb
 C:\Users\Dell\Downloads\Library\Library\src\Library.Dto\obj\Debug\net8.0\ref\Library.Dto.dll
+C:\Users\Dell\Downloads\Library\Library\src\Library.Dto\obj\Debug\net8.0\Library.Dto.sourcelink.json

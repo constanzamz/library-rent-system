@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\Downloads\\Library\\Library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30045A2C-068D-4B62-BB8B-8F2C8E447CFD}|src\\Library.Api\\Library.Api.csproj|c:\\users\\dell\\downloads\\library\\library\\src\\library.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{30045A2C-068D-4B62-BB8B-8F2C8E447CFD}|src\\Library.Api\\Library.Api.csproj|solutionrelative:src\\library.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{30045A2C-068D-4B62-BB8B-8F2C8E447CFD}|src\\Library.Api\\Library.Api.csproj|c:\\users\\dell\\downloads\\library\\library\\src\\library.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30045A2C-068D-4B62-BB8B-8F2C8E447CFD}|src\\Library.Api\\Library.Api.csproj|solutionrelative:src\\library.api\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30045A2C-068D-4B62-BB8B-8F2C8E447CFD}|src\\Library.Api\\Library.Api.csproj|c:\\users\\dell\\downloads\\library\\library\\src\\library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30045A2C-068D-4B62-BB8B-8F2C8E447CFD}|src\\Library.Api\\Library.Api.csproj|solutionrelative:src\\library.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF5F544B-1F58-4324-B327-4E3D27458FAB}|src\\Library.Services\\Library.Services.csproj|c:\\users\\dell\\downloads\\library\\library\\src\\library.services\\implementations\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5F544B-1F58-4324-B327-4E3D27458FAB}|src\\Library.Services\\Library.Services.csproj|solutionrelative:src\\library.services\\implementations\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5F544B-1F58-4324-B327-4E3D27458FAB}|src\\Library.Services\\Library.Services.csproj|c:\\users\\dell\\downloads\\library\\library\\src\\library.services\\abstractions\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5F544B-1F58-4324-B327-4E3D27458FAB}|src\\Library.Services\\Library.Services.csproj|solutionrelative:src\\library.services\\abstractions\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Library\\Library\\src\\Library.Api\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "src\\Library.Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Dell\\Downloads\\Library\\Library\\src\\Library.Api\\Properties\\launchSettings.json",
-              "RelativeToolTip": "src\\Library.Api\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBMAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-30T18:16:21.629Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -43,15 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Library\\Library\\src\\Library.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\Library.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Dell\\Downloads\\Library\\Library\\src\\Library.Api\\Program.cs",
-              "RelativeToolTip": "src\\Library.Api\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAEUAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Library\\Library\\src\\Library.Api\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "src\\Library.Api\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Library\\Library\\src\\Library.Api\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "src\\Library.Api\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T18:00:08.912Z",
+              "WhenOpened": "2025-12-31T04:23:57.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Library\\Library\\src\\Library.Services\\Implementations\\ClientService.cs",
+              "RelativeDocumentMoniker": "src\\Library.Services\\Implementations\\ClientService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Library\\Library\\src\\Library.Services\\Implementations\\ClientService.cs",
+              "RelativeToolTip": "src\\Library.Services\\Implementations\\ClientService.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAAJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T04:23:31.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Library\\Library\\src\\Library.Services\\Abstractions\\IClientService.cs",
+              "RelativeDocumentMoniker": "src\\Library.Services\\Abstractions\\IClientService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Library\\Library\\src\\Library.Services\\Abstractions\\IClientService.cs",
+              "RelativeToolTip": "src\\Library.Services\\Abstractions\\IClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T04:23:13.965Z",
               "EditorCaption": ""
             }
           ]
