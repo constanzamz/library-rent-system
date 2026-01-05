@@ -1,13 +1,25 @@
 # Library Rent System – Backend
 
-Backend del proyecto **Library Rent System**, desarrollado en **ASP.NET Core**.
+Backend of the **Library Rent System** project, developed with **ASP.NET Core**.
 
-El sistema expone una **API REST** para la gestión de clientes, libros y pedidos, utilizada por el frontend desarrollado en Angular.
+The application exposes a **RESTful API** for managing clients, books, and rental orders, consumed by a frontend application built with Angular.
 
-## Tecnologías utilizadas
+## Features
+- REST API for clients, books, and rental management
+- Layered architecture (Controllers, Services, Repositories)
+- Data persistence with Entity Framework Core
+- SQL Server integration
+- Pagination and filtering support
+
+## Tech Stack
 - ASP.NET Core
 - Entity Framework Core
 - SQL Server
-- Arquitectura en capas (Controllers, Services, Repositories)
+- C#
 
-Constanza Martínez
+## Frontend
+The frontend application is developed separately using **Angular** and consumes this API.
+
+## Work in Progress
+- Authentication and authorization
+- Additional security improvements
